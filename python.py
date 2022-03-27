@@ -1,1 +1,3 @@
-print ("Hello World!")
+print ("how are you?")
+a = input()
+print("me too", a)
